@@ -3,7 +3,7 @@
 ## Telecom Churn Requirements
 
 
-## Business Understanding: 
+## Business Understanding 
 Problem Context: working at Proximus company and over 6 months, the company faces challenges, such as inflation, losses in customers, loss in revenue. The main issue explains the increase of customer's churn before 6 months time that causes high drop in company's performance. 
 
 Purpose: my work as an ML Engineer is to build a model that classifies data based on churn 0 and 1 in order to use this insight to create
