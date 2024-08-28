@@ -34,3 +34,11 @@ tasks to the model. That helps me to succeed in increasing company's performance
 - Model Building with KNN
 - Model Evaluation
 
+## TO DOs
+
++ create functions to compute dissimilarity: 
+  - euclidian distance
+  - manhatten distance
+  - minkowski distance
+  - cosine disimilarity
++ visualise plot for each dissimilarity to find relationship and patterns from data
